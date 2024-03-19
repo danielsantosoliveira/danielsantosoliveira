@@ -7,7 +7,7 @@
 
 ## ➤ About me 
 - 👨‍💻: Postgraduate student in Web Development      
-    🏫: at IFSP(Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus Itapetininga) [@IFSP](https://itp.ifsp.edu.br/)
+    🏫: at Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus Itapetininga [@IFSP](https://itp.ifsp.edu.br/)
 - :man_technologist: Graduated in 📏👽 Analysis and Systems Development   
     :school: at Faculdade de Tecnologia de São José dos Campos [@FATEC](http://fatecsjc-prd.azurewebsites.net/)
 - :man_technologist: Fullstack developer at [Visiona Tecnologia Espacial](https://www.visionaespacial.com.br/)
